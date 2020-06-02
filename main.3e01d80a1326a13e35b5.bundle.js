@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{1386:function(t,e,n){n(469),n(612),n(1387),t.exports=n(1375)},1387:function(t,e,n){"use strict";n.r(e);var i=n(140),r=n(468),s=Object(r.create)({brandTitle:"react-twitter-widgets",brandUrl:"https://github.com/andrewsuzuki/react-twitter-widgets"});i.addons.setConfig({theme:s})},531:function(t,e){}},[[1386,1,2]]]);
